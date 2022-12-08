@@ -1,0 +1,27 @@
+# ninja log v5
+5110	6181	1670331737605892645	CMakeFiles/imgui.dir/3rdparty/imgui/backends/imgui_impl_sdlrenderer.cpp.o	97382ae8d42ff7fe
+6942	7392	1670331738821893531	src/SdlImGuiOpenGl2/SdlImGuiOpenGl2	889ed81f2de42be1
+5972	6766	1670331738193893073	src/SdlImGuiOpenGl2/CMakeFiles/SdlImGuiOpenGl2.dir/main.cpp.o	cf8484db2fc4d70f
+3024	6805	1670331738225893096	CMakeFiles/imgui.dir/3rdparty/imgui/imgui_widgets.cpp.o	d0a2add38b45207e
+6805	6942	1670331738357893193	libimgui.a	1b0326fd8d961905
+4523	4774	1670331736197891620	CMakeFiles/imgui.dir/3rdparty/imgui/backends/imgui_impl_opengl2.cpp.o	5cb41be85fe451fe
+1984	4523	1670331735957891445	CMakeFiles/imgui.dir/3rdparty/imgui/imgui_tables.cpp.o	6f8042afd9762bcd
+1	1119	1670496183293689204	src/SdlImGuiOpenGl3/CMakeFiles/SdlImGuiOpenGl3.dir/main.cpp.o	c990c4a4751b662c
+4908	5972	1670331737405892500	CMakeFiles/imgui.dir/3rdparty/imgui/backends/imgui_impl_sdl.cpp.o	83d6db9923bb08c7
+4774	5110	1670331736537891868	CMakeFiles/imgui.dir/3rdparty/imgui/backends/imgui_impl_opengl3.cpp.o	86f94fbd4e6455d0
+1119	1238	1670496183413689203	src/SdlImGuiOpenGl3/SdlImGuiOpenGl3	c4bb53f6f6d23fc6
+6	1984	1670331733413889591	CMakeFiles/imgui.dir/3rdparty/imgui/imgui_demo.cpp.o	9a8f454ac7660fd
+0	4908	1670331736325891713	CMakeFiles/imgui.dir/3rdparty/imgui/imgui.cpp.o	801c260b4c745193
+10	3023	1670331734457890351	CMakeFiles/imgui.dir/3rdparty/imgui/imgui_draw.cpp.o	d3aaae55374e931a
+10	2550	1670496507273684724	CMakeFiles/imgui.dir/3rdparty/imgui/imgui_demo.cpp.o	f5cf65f74ee9dfaa
+27	3507	1670496508225684711	CMakeFiles/imgui.dir/3rdparty/imgui/imgui_draw.cpp.o	693445593f32b05a
+2550	4542	1670496509265684697	CMakeFiles/imgui.dir/3rdparty/imgui/imgui_tables.cpp.o	d9973b029a08a9e5
+4542	4714	1670496509433684694	CMakeFiles/imgui.dir/3rdparty/imgui/backends/imgui_impl_opengl2.cpp.o	e4727465aaae0751
+0	5042	1670496509765684690	CMakeFiles/imgui.dir/3rdparty/imgui/imgui.cpp.o	97c1bb478cdc8aa
+4715	5059	1670496509777684689	CMakeFiles/imgui.dir/3rdparty/imgui/backends/imgui_impl_opengl3.cpp.o	bf36ecbbed9805af
+5042	5882	1670496510605684678	CMakeFiles/imgui.dir/3rdparty/imgui/backends/imgui_impl_sdl.cpp.o	7cde7c838d7142eb
+5059	6115	1670496510837684675	CMakeFiles/imgui.dir/3rdparty/imgui/backends/imgui_impl_sdlrenderer.cpp.o	af9d05050424d237
+5882	6603	1670496511329684668	src/SdlImGuiOpenGl3/CMakeFiles/SdlImGuiOpenGl3.dir/main.cpp.o	cf9e0eb45e4e9ec8
+3507	6697	1670496511421684667	CMakeFiles/imgui.dir/3rdparty/imgui/imgui_widgets.cpp.o	505e5dc275bab088
+6697	6771	1670496511481684666	libimgui.a	1b0326fd8d961905
+6771	6882	1670496511601684664	src/SdlImGuiOpenGl3/SdlImGuiOpenGl3	c4bb53f6f6d23fc6
